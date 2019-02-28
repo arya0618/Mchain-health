@@ -1,0 +1,48 @@
+{
+    "dbConfig": {
+        "port": "7176",
+        "host": "127.0.0.1",
+        "user": "multichainrpc",
+        "pass": "6yy2273nSrR8uzDdiXe2CyBHpqRLB9zayELjUephfoqm"
+      },
+    "widget":{
+        "Allergy": "_Allergy",
+        "Activity": "_ACTIVITY",
+        "BloodGlucose": "_BLOOD_GLUCOSE",
+        "Medication": "_MEDICATION",
+        "HospitalRecords": "_HOSPITAL_RECORDS",
+        "LabTest": "_LABTEST",
+        "Contact": "_CONTACT",
+        "Respiratory": "_RESPIRATORY",
+        "BodyTemperature": "_BODY_TEMPERATURE",
+        "HeartRate": "_HEART_RATE",
+        "UserProfile": "_USER_PROFILE",
+        "BloodPressure": "_BLOOD_PRESSURE",
+        "BMI": "_BMI",
+        "Report": "_REPORT",
+        "spo2": "_SPO2",
+        "USER": "_USER",
+        "DashBoard": "DashBoard",
+        "share": "_SHARE",
+        "notification": "_NOTIFICATION",
+        "phrDocs":"_PHRDOC",
+        "SHAREURL_CONFIGMASTER": "SHAREURLCONFIG",
+        "DOC_CATEGORY": "DOC_CATEGORY",
+        "ALLERGY_SEVERITY": "ALLERGY_SEVERITY",
+        "ALLERGY_SINCE": "ALLERGY_SINCE",
+        "PROVIDER_MASTER": "PROVIDER_MASTER",
+        "QUALIFICATION_MASTER": "QUALIFICATION_MASTER",
+        "SECTOR_MASTER": "SECTOR_MASTER"
+    },
+    "TestIp": {
+        "host": "10.68.198.72"
+    },
+    "OraConfig": {
+        "user": "EHRBCSTAGE",
+        "password": "test123test",
+        "connectString": "exa03-scan.rajasthan.gov.in:1521/BMSTAGE"
+    },
+    "ExternalURL": {
+        "GeoInfo": "https://apitest.sewadwaar.rajasthan.gov.in/app/live/MasterData?client_id=b811e209-4054-4e1b-bab6-c68704015b15"
+    }
+}
